@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Feulife/movies/static/css/main.59243ef7.css",
-    "main.js": "/Feulife/movies/static/js/main.af460d42.js",
-    "index.html": "/Feulife/movies/index.html",
-    "main.59243ef7.css.map": "/Feulife/movies/static/css/main.59243ef7.css.map",
-    "main.af460d42.js.map": "/Feulife/movies/static/js/main.af460d42.js.map"
+    "main.css": "/movies/static/css/main.59243ef7.css",
+    "main.js": "/movies/static/js/main.a49afa02.js",
+    "index.html": "/movies/index.html",
+    "main.59243ef7.css.map": "/movies/static/css/main.59243ef7.css.map",
+    "main.a49afa02.js.map": "/movies/static/js/main.a49afa02.js.map"
   },
   "entrypoints": [
     "static/css/main.59243ef7.css",
-    "static/js/main.af460d42.js"
+    "static/js/main.a49afa02.js"
   ]
 }
