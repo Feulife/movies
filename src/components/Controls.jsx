@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 export function Controls(props) {
   const { onSearch } = props;
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState("Beethoven");
   const [types, setType] = useState("all");
 
   useEffect(() => {

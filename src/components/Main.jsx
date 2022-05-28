@@ -27,7 +27,7 @@ function Main() {
   };
 
   useEffect(() => {
-    fetch(`https://www.omdbapi.com/?apikey=78584b3c&s=courage`)
+    fetch(`https://www.omdbapi.com/?apikey=78584b3c&s=Beethoven`)
       .then((response) => response.json())
       .then((data) => {
         console.log(data.Search);
